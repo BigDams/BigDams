@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a passionate software developer, and tech entr
 
 🤝 Let’s Connect
 	•	🌐 Website: oceantrends.com.ng
-  •	🌐 Website: damilareajiboye.com
+	•	🌐 Website: damilareajiboye.com
 	•	📧 Email: damilare@oceantrends.com.ng
 	•	💼 LinkedIn: https://www.linkedin.com/in/damilareajiboye
 	•	🐦 Twitter: https://x.com/thedams_0
